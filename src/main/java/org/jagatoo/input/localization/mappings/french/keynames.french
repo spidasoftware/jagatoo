@@ -1,0 +1,87 @@
+################################################################################
+# This is the key-names translation for France.
+# Please see the org.jagatoo.input.devices.components.Keys for the untranslated,
+# technical names.
+# 
+# These translated names can be used for displaying in GUIs.
+# 
+# Format for this file:
+# Empty lines or lines starting with a diamond (#) are ignored.
+# On the left side of each valid line there is the untranslated, technical name
+# and on the right side there is the translated name. The two names are
+# separated with an equals sign (=), which can be spaced on each side,
+# but doesn't have to.
+# Names (untranslated and translated) can be quoted by double quotes, but don't
+# have to, if they don't contain spaces.
+# 
+# Keys, that don't have a translation in this file will return the untranslated,
+# technical name (i.e. the result of getName()) for the getLocalizedName()
+# method. This is obviously ok for keys like the numbers or regular chars.
+################################################################################
+
+"ESCAPE" = "Escape"
+
+"PRINTSCREEN" = "Imprime Système"
+"PAUSE" = "Pause"
+"SCROLL_LOCK" = "Arrêt Défilement"
+
+"CIRCUMFLEX" = "Circonflexe"
+
+"TAB" = "Tabulation"
+"SPACE" = "Espace"
+"BACK_SPACE" = "Retour arrière"
+"ENTER" = "Entrée"
+
+"LEFT_SHIFT" = "Shift Gauche"
+"RIGHT_SHIFT" = "Shift Droit"
+"LEFT_CONTROL" = "Control Gauche"
+"RIGHT_CONTROL" = "Control Droit"
+"ALT" = "Alt"
+"ALT_GRAPH" = "Alt Graph"
+"LEFT_META" = "Windows (Gauche)"
+"RIGHT_META" = "Windows (Droit)"
+"CAPS_LOCK" = "Verouillage Majuscule"
+
+"DELETE" = "Supprimer"
+"INSERT" = "Insérer"
+"END" = "Fin"
+"HOME" = "Debut"
+"PAGE_UP" = "Défilement Haut"
+"PAGE_DOWN" = "Défilement Bas"
+
+"RIGHT" = "Droit"
+"LEFT" = "Gauche"
+"UP" = "Haut"
+"DOWN" = "Bas"
+
+"NUM_LOCK" = "Verrouillage Numérique"
+
+"NUMPAD_DIVIDE" = "Division (NumPad)"
+"NUMPAD_MULTIPLY" = "Multiplication (NumPad)"
+"NUMPAD_SUBTRACT" = "Soustraction (NumPad)"
+"NUMPAD_ADD" = "Addition (NumPad)"
+"NUMPAD_ENTER" = "Entrée (NumPad)"
+"NUMPAD_DECIMAL" = "Décimale (NumPad)"
+
+"NUMPAD0" = "0 (NumPad)"
+"NUMPAD1" = "1 (NumPad)"
+"NUMPAD2" = "2 (NumPad)"
+"NUMPAD3" = "3 (NumPad)"
+"NUMPAD4" = "4 (NumPad)"
+"NUMPAD5" = "5 (NumPad)"
+"NUMPAD6" = "6 (NumPad)"
+"NUMPAD7" = "7 (NumPad)"
+"NUMPAD8" = "8 (NumPad)"
+"NUMPAD9" = "9 (NumPad)"
+
+"LOCAL_KEY1" = "²"
+"LOCAL_KEY2" = ")"
+"LOCAL_KEY3" = "$"
+"LOCAL_KEY4" = "ù"
+"LOCAL_KEY5" = "*"
+"LOCAL_KEY6" = ","
+"LOCAL_KEY7" = ";"
+"LOCAL_KEY8" = ":"
+"LOCAL_KEY9" = "!"
+"LOCAL_KEY10" = "^"
+"LOCAL_KEY11" = "<>"
