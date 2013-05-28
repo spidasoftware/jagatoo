@@ -5,7 +5,7 @@
 	<groupId>org.jagatoo</groupId>
 	<artifactId>jagatoo</artifactId>
 	<packaging>jar</packaging>
-	<version>4.3-SNAPSHOT</version>
+	<version>4.5</version>
 	<name>Trunk-jagatoo</name>
 	<url>http://maven.apache.org</url>
 	<build>
